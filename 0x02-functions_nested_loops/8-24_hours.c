@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * jack_bauer -prints every minute of the day
+ * a_day -prints every minute of the day
  *
  * Return: Always 0.
  */
