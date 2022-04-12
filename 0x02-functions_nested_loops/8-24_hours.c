@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * a_day -prints every minute of the day
+ * jack_bauer -prints every minute of the day
  *
  * Return: Always 0.
  */
 
-void a_day(void)
+void jack_bauer(void)
 
 {
 int a;
