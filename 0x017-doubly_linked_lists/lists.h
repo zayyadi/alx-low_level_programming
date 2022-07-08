@@ -2,8 +2,7 @@
 #define LISTS_H
 
 /*
- * File: lists.h
- * Auth: Bamidele Adefolaju
+ *
  */
 
 #include <stdio.h>
